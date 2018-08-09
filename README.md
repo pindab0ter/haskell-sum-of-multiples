@@ -14,6 +14,8 @@ The sum of these multiples is 78.
 
 My [first solution](https://exercism.io/my/solutions/998d2f58425d48fbae446f60aa7ca1f7?iteration_idx=2) used `nub` and `concatMap`. As my mentor on Exercism pointed out, these are both very inefficient methods and pointed me towards `Data.IntSet` and Criterion for benchmarking.
 
+Note that the benchmark for the least efficient implementation is 50 times smaller, only having to calculate multiples of 3, 5 and 7 up to 10,000 instead of 500,000.
+
 ## File links
 
 [Source file for the different implementations](https://github.com/pindab0ter/haskell-sum-of-multiples/blob/master/src/SumOfMultiples.hs)
