@@ -16,6 +16,6 @@ My [first solution](https://exercism.io/my/solutions/998d2f58425d48fbae446f60aa7
 
 ## File links
 
-[Source file for the different implementations](src/SumOfMultiples.hs)
+[Source file for the different implementations](https://github.com/pindab0ter/haskell-sum-of-multiples/blob/master/src/SumOfMultiples.hs)
 
-[Benchmarking results](bench.html)
+[Benchmarking results](https://pindab0ter.github.io/haskell-sum-of-multiples/bench.html)
